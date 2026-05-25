@@ -3,7 +3,7 @@ Spotify Gesture Controller
 A Computer Vision based Spotify controller built using Python, OpenCV, MediaPipe and Keyboard
 
 Demo Video
-https://img.youtube.com/vi/u-AlFmFQgRs/0.jpg)](https://www.youtube.com/watch?v=u-AlFmFQgRs
+[(https://img.youtube.com/vi/u-AlFmFQgRs/0.jpg)](https://www.youtube.com/watch?v=u-AlFmFQgRs)
 
 Features
 
